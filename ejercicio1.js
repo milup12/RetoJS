@@ -24,4 +24,7 @@ function calcularPrecio(precioBase,descuento){
 
      }
 
+     var resultado = calcularPrecio(precioBase, descuento);
+console.log(resultado);
+
 }
